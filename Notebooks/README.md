@@ -1,6 +1,6 @@
 # Notebooks
 
-In diesem folder werden Jupyter Notebooks zur Verfügung gestellt, die im Buch angegeben werden. Zusätzlich werden weitere Notebooks hinzugefügt, die einzelne Rechenschritte im Detail vorstellen oder die Erläuterungen im Buch weiter vertiefen.   
+In diesem folder werden Jupyter Notebooks zur Verfügung gestellt, die im Buch angegeben werden. Zusätzlich werden weitere Notebooks hinzugefügt, die einzelne Rechenschritte im Detail vorstellen oder die Erläuterungen im Buch vertiefen.   
 
 -----------------
 - `N1.01_xxxxx.ipynb` : Erläuterungen  
