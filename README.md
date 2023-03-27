@@ -1,11 +1,13 @@
-# Book Elementarteilchenphysik (in german)
-### Authors
-- Christoph Berger 
-- Gregor Herten 
-### Publisher: Springer
+# Elementary Particle Physics
 
-In this folder additional material to the book is provided.
-- Solutions to the exercise problems
+Here additional material for the book
+- Elementarteilchenphysik (in german)
+- Publisher: Springer
+- Authors: Christoph Berger, Gregor Herten 
+is provided. 
+
+Sub-folders contain:
+- Solutions to exercise problems
 - Notebooks with detailed calculations
 - Corrections to the printed edition
  
