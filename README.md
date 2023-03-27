@@ -8,7 +8,7 @@ Here additional material for the book
 is provided. 
 
 Sub-folders contain:
-- Solutions to exercise problems
+- Solution hint for exercise problems
 - Notebooks with detailed calculations
 - Corrections to the printed edition
  
