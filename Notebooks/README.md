@@ -1,10 +1,10 @@
 # Notebooks
 
-In diesem folder werden Jupyter Notebooks zur Verfügung gestellt, die im Buch angegeben werden. Zusätzlich werden weitere Notebooks hinzugefügt, die einzelne Rechenschritte im Detail vorstellen oder die Erläuterungen im Buch vertiefen.   
+This folder contains Jupyter notebooks with calculations, which are covered in the book.    
 
 ----
-- [N1.01_test_notebook1_Kap1.ipynb](N1.01_test_notebook1_Kap1.ipynb) : Berechnungen von ...
-- [N1.02_test_notebook2_Kap1.ipynb](N1.02_test_notebook2_Kap1.ipynb) : Berechnungen von ...
+- [Dirac.ipynb](Dirac.ipynb) : chap. 3, Dirac equation, properties of Dirac spinors
+- [Moller.ipynb](N1.02_test_notebook2_Kap1.ipynb) : Berechnungen von ...
 ----
 - `N2.01_test_notebook1_Kap2.ipynb` : Sehr lange Erläuterungen zur Berechnungen von ...   asdasdfa asdfasdf adsfasdfasdf adsfasdfa adsfasdfas adsfasdfa asdfasdf asdfasdfadf asdfadfa adsfadfadsf
 - `N2.02_test_notebook2_Kap2.ipynb` : Berechnungen von ...
