@@ -4,6 +4,7 @@ This folder contains Jupyter notebooks with calculations, which are referred to 
 
 ----
 - [Argand.ipynb](Argand.ipynb) : solution to exercise 2.21
+- [Compton(HE).ipynb](Compton(HE).ipynb) : chapter 3.2 - Comptonscatteringsolution to exercise 2.21
 - [Dirac.ipynb](Dirac.ipynb) : chapter 3.1 - Dirac equation, properties of Dirac spinors
 - [eeee.ipynb](eeee.ipynb) : chapter 3.2 - Bhabha and Moller scattering
 - [eemumu.ipynb](eemumu.ipynb) : chapter 3.2 - $e^- e^+ \to \mu^- \mu^+$ and $e^- \mu^- \to e^- \mu^-$
