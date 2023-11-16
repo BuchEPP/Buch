@@ -1,7 +1,6 @@
 ### Solution hints for exercises
 
-The book `Elementarteilchenphysik` provides 187 exercises, which should help to understand the material in more detail. 
-A list of hints for solving the exercises is given in `Solutions_of_exercises.pdf`. For some exercises reference is made to Jupyter notebooks, which can be found in this folder or in the folder `Notebooks`. 
+The book `Elementarteilchenphysik` (èlementary Particle Physics`) contains 187 exercises to help you understand the material. A list of hints for solving the exercises is given in `Solutions_of_exercises.pdf`. Some exercises refer to Jupyter notebooks, which can be found in this folder or in the folder `Notebooks`.
 
 ## Notebooks
 - `A1.27-28-20-Kugel.ipynb` : Solution for exercise 1.27, 1.28 and 1.20
