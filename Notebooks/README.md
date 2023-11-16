@@ -14,7 +14,7 @@ This folder contains Jupyter notebooks with calculations, which are referred to 
 - [NeutronDecay.ipynb](NeutronDecay.ipynb) : section 6.2 - neutron decay 
 - [PiDecay.ipynb](PiDecay.ipynb) : section 6.2 - charged pion decay 
 - [Rosenbluthandmore.ipynb](Rosenbluthandmore.ipynb) : section 5.2 - Rosenbluth formula
-- [eeWW.ipynb](eeWW.ipynb) : 
+- [eeWW.ipynb](eeWW.ipynb) : section 7.1 - $ee \to WW$ reaction
 - [eeee.ipynb](eeee.ipynb) : section 3.2 - Bhabha and Moller scattering
 - [eemumu.ipynb](eemumu.ipynb) : section 3.2 - $e^- e^+ \to \mu^- \mu^+$ and $e^- \mu^- \to e^- \mu^-$
 - [eepipi.ipynb](eepipi.ipynb) :
