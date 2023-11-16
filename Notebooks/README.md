@@ -14,11 +14,11 @@ This folder contains Jupyter notebooks with calculations, which are referred to 
 - [NeutronDecay.ipynb](NeutronDecay.ipynb) : section 6.2 - neutron decay 
 - [PiDecay.ipynb](PiDecay.ipynb) : section 6.2 - charged pion decay 
 - [Rosenbluthandmore.ipynb](Rosenbluthandmore.ipynb) : section 5.2 - Rosenbluth formula
-- [eeWW.ipynb](eeWW.ipynb) : section 7.1 - $ee \to WW$ reaction
+- [eeWW.ipynb](eeWW.ipynb) : section 7.1 - reaction $ee \to WW$
 - [eeee.ipynb](eeee.ipynb) : section 3.2 - Bhabha and Moller scattering
 - [eemumu.ipynb](eemumu.ipynb) : section 3.2 - $e^- e^+ \to \mu^- \mu^+$ and $e^- \mu^- \to e^- \mu^-$
-- [eepipi.ipynb](eepipi.ipynb) :
-- [ggtogg.ipynb](ggtogg.ipynb) :
+- [eepipi.ipynb](eepipi.ipynb) : section 5.1 - reaction $e^+ e^- \to \pi^+ \pi^-$
+- [ggtogg.ipynb](ggtogg.ipynb) : section 5.2 - gluon-gluon scattering
 - [heppackv0.py](heppackv0.py) : utility functions and definitions which are used in notebooks 
-- [tWdecay.ipynb](tWdecay.ipynb) :
+- [tWdecay.ipynb](tWdecay.ipynb) : section 6.2 - weak decays of quarks
 ----
