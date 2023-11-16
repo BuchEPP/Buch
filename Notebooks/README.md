@@ -10,11 +10,11 @@ This folder contains Jupyter notebooks with calculations, which are referred to 
 - [Dirac.ipynb](Dirac.ipynb) : section 3.1 - Dirac equation, properties of Dirac spinors
 - [Farbfaktoren.ipynb](Farbfaktoren.ipynb) : section 4.2 - QCD colour factor
 - [Higgs_decay_HVV.ipynb](Higgs_decay_HVV.ipynb) : section 7.3 - Higgs decay to an on-shell VV-pair
-- [LeptonWeak.ipynb](Higgs_decay_HVV.ipynb) : 
-- [NeutronDecay.ipynb](NeutronDecay.ipynb) :
-- [PiDecay.ipynb](PiDecay.ipynb) :
-- [Rosenbluthandmore.ipynb](Rosenbluthandmore.ipynb) :
-- [eeWW.ipynb](eeWW.ipynb) :
+- [LeptonWeak.ipynb](Higgs_decay_HVV.ipynb) : section 6.1 - various weak reactions with leptons
+- [NeutronDecay.ipynb](NeutronDecay.ipynb) : section 6.2 - neutron decay 
+- [PiDecay.ipynb](PiDecay.ipynb) : section 6.2 - charged pion decay 
+- [Rosenbluthandmore.ipynb](Rosenbluthandmore.ipynb) : section 5.2 - Rosenbluth formula
+- [eeWW.ipynb](eeWW.ipynb) : 
 - [eeee.ipynb](eeee.ipynb) : section 3.2 - Bhabha and Moller scattering
 - [eemumu.ipynb](eemumu.ipynb) : section 3.2 - $e^- e^+ \to \mu^- \mu^+$ and $e^- \mu^- \to e^- \mu^-$
 - [eepipi.ipynb](eepipi.ipynb) :
