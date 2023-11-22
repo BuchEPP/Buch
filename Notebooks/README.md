@@ -18,7 +18,7 @@ and to work locally:
 The comments in the notebooks are intentionally brief.  Therefore, read the relevant section in the book carefully and try to understand every line of code.  Play with it: change parameters such as masses or vertex factors and see what happens. You can also use these notebooks as examples for calculating other processes.   
 
 ----
-- [Argand.ipynb](Argand.ipynb)
+- [Argand.ipynb](./Argand.ipynb)
     - section 2.4, exercise 2.21
     - plot Argand diagram
 - [Compton(HE).ipynb](Compton(HE).ipynb) 
