@@ -15,7 +15,7 @@ and to work locally:
     - click on the green field `<>Code`
     - select `Download ZIP`
 
-The comments are intentionally brief.  Therefore, read the relevant section in the book carefully and try to understand every line of code.  Play with it: change parameters such as masses or vertex factors and see what happens. You can also use these notebooks as examples for calculating other processes.   
+The comments in the notebooks are intentionally brief.  Therefore, read the relevant section in the book carefully and try to understand every line of code.  Play with it: change parameters such as masses or vertex factors and see what happens. You can also use these notebooks as examples for calculating other processes.   
 
 ----
 - [Argand.ipynb](Argand.ipynb)
