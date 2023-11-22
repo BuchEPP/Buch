@@ -42,7 +42,7 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
 - [LeptonWeak.ipynb](LeptonWeak.ipynb) 
     - section 6.1 
     - various weak reactions with leptons
-    - $\nu_\mu~e^-\to \nu_e~\mu^-$
+    - $\nu_\mu ~ e^-\rightarrow \nu_e ~ \mu^- $
     - $\bar{\nu}_{e}~\mu^+ \rightarrow \bar{\nu}~e^+$
     - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu}_\mu e^+$
     - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu_\mu} e^+$
