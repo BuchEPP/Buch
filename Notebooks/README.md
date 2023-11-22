@@ -3,17 +3,20 @@
 This folder contains Jupyter notebooks with calculations. 
 They are referred to in the book, provide solutions to exercises or 
 show details of calculations.    
-Some notebooks contain links to figure. 
+Some notebooks contain links to figures. 
 They are stored in the subfolder `img`.
 Make sure that you download the figures as well.  
 
 The easiest way to use the notebooks is to clone this repository to your local computer 
-and do everything locally:
+and to work locally:
 1. Option: use the terminal and the `git` command (for experts)
 2. Option: use the Web-Interface 
     - go to [Main page](https://github.com/BuchEPP/Buch/tree/main)
-    - click on the green field `<> Code`
-    - select Download ZIP
+    - click on the green field `<>Code`
+    - select `Download ZIP`
+
+The comments are intentionally brief.  Therefore, read the relevant section in the book carefully and try to understand every line of code.  Play with it: change parameters such as masses or vertex factors and see what happens. You can also use these notebooks as examples for calculating other processes.   
+
 ----
 - [Argand.ipynb](Argand.ipynb)
     - section 2.4, exercise 2.21
