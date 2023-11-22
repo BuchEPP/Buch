@@ -42,9 +42,11 @@ The comments are intentionally brief.  Therefore, read the relevant section in t
 - [LeptonWeak.ipynb](LeptonWeak.ipynb) 
     - section 6.1 
     - various weak reactions with leptons
-    - $\nu_\mu e^-\rightarrow \nu_e\mu^-~, ~~~
-        \bar{\nu}_e  \mu^+\rightarrow \bar{\nu}_\mu e^+~, ~~~
-        \mu^+\rightarrow e^+\bar{\nu}_\mu\nu_e$
+    - $\nu_\mu e^-\to \nu_e\mu^-$
+    - $\bar{\nu}_{e} \mu^+ \rightarrow \bar{\nu}_{\mu} e^+$
+    - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu}_{\mu} e^+$
+    - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu_\mu} $
+    - $\mu^+\rightarrow e^+\bar{\nu}_\mu\nu_e$
 - [NeutronDecay.ipynb](NeutronDecay.ipynb) 
     - section 6.2 
     - calculation of the neutron decay 
