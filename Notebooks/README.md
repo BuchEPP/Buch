@@ -43,10 +43,10 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
     - section 6.1 
     - various weak reactions with leptons
     - $\nu_\mu ~ e^-\rightarrow \nu_e ~ \mu^- $
-    - $\bar{\nu}_{e} ~ \mu^+ \rightarrow \bar{\nu}_\mu ~ e^+$
+    - $\bar{\nu}_{e} ~ \mu^+ \rightarrow \bar{\nu}_{\mu} ~ e^+$
     - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu}_\mu e^+$
     - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu_\mu} e^+$
-    - $\mu^+\rightarrow e^+\bar{\nu}_\mu\nu_e$
+    - $\mu^+\rightarrow e^+ ~\bar{\nu}_\mu ~ \nu_e$
 - [NeutronDecay.ipynb](NeutronDecay.ipynb) 
     - section 6.2 
     - calculation of the neutron decay 
