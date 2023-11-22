@@ -102,5 +102,3 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
     - section 6.2 
     - weak decays of the top quark and the W boson
 ----
-
-<img src="./img/LeptonWeakfig1.png" width="600"/>
