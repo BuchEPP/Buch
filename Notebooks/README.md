@@ -3,7 +3,17 @@
 This folder contains Jupyter notebooks with calculations. 
 They are referred to in the book, provide solutions to exercises or 
 show details of calculations.    
+Some notebooks contain links to figure. 
+They are stored in the subfolder `img`.
+Make sure that you download the figures as well.  
 
+The easiest way to use the notebooks is to clone this repository to your local computer 
+and do everything locally:
+1. Option: use the terminal and the `git` command (for experts)
+2. Option: use the Web-Interface 
+    - go to [Main page](https://github.com/BuchEPP/Buch/tree/main)
+    - click on the green field `<> Code`
+    - select Download ZIP
 ----
 - [Argand.ipynb](Argand.ipynb)
     - section 2.4, exercise 2.21
