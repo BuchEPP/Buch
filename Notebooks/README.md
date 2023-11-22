@@ -33,9 +33,6 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
 - [Dirac.ipynb](Dirac.ipynb)
     - section 3.1 
     - This notebook should be used for own investigations around the Dirac equation e.g. in the context of the discussion in section 3.1 of the book.
-- [colorfactors.ipynb](Farbfaktoren.ipynb)
-    - section 4.2 
-    - calculate QCD color factors for qq scattering
 - [Higgs_decay_HVV.ipynb](Higgs_decay_HVV.ipynb) 
     - section 7.3 
     - Higgs decay to an on-shell vector boson pair
@@ -54,6 +51,9 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
 - [Rosenbluthandmore.ipynb](Rosenbluthandmore.ipynb) 
     - section 5.2 
     - derivation of the Rosenbluth formula
+- [colorfactors.ipynb](Farbfaktoren.ipynb)
+    - section 4.2 
+    - calculate QCD color factors for qq scattering
 - [eeWW.ipynb](eeWW.ipynb)  
     - section 7.1 
     - calculation of the amplitudes for the reaction $ee \to WW$
