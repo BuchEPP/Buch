@@ -45,7 +45,7 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
     - $\nu_\mu e^-\to \nu_e\mu^-$
     - $\bar{\nu}_{e} \mu^+ \rightarrow \bar{\nu}_{\mu} e^+$
     - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu}_{\mu} e^+$
-    - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu}_\mu $
+    - $\bar{\nu}_e \mu^+ \rightarrow \bar{\nu_\mu} $
     - $\mu^+\rightarrow e^+\bar{\nu}_\mu\nu_e$
 - [NeutronDecay.ipynb](NeutronDecay.ipynb) 
     - section 6.2 
