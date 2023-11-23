@@ -56,7 +56,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - $\nu_\mu ~ e^-\rightarrow \nu_e ~ \mu^-$,  
     - $\bar{\nu}_{e} ~ \mu^+ \rightarrow \bar{\nu}_μ ~ e^+ $,  
     - $\mu^+\rightarrow e^+ ~\bar{\nu}_\mu ~ \nu_e$,
-    - $\bar{\nu}_{e} ~ ^- \rightarrow \bar{\nu}_e ~ e^- $ 
+    - $\bar{\nu}_{e} ~ e^- \rightarrow \bar{\nu}_e ~ e^- $ 
 - [Majorana.ipynb](/BuchEPP/Buch/blob/main/Notebooks/Majorana.ipynb) 
     - section 9.3, box 9.2 
     - Calculate the Majorana mass for commutative and non-commutative spinors. Show that only in the latter case the mass term is different from zero. 
