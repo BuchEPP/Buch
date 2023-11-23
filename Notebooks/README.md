@@ -52,7 +52,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - Derive the gauge couplings ($\gamma, Z, W$) to Fermions  in the SM and compare the result with the equations for $\mathcal{L}_F$ in section 7.3.     
 - [LeptonWeak.ipynb](/BuchEPP/Buch/blob/main/Notebooks/LeptonWeak.ipynb) 
     - section 6.1 
-    - various weak reactions with leptons
+    - calculate various weak reactions with leptons
     - $\nu_\mu ~ e^-\rightarrow \nu_e ~ \mu^-$,  
     - $\bar{\nu}_{e} ~ \mu^+ \rightarrow \bar{\nu}_μ ~ e^+ $,  
     - $\mu^+\rightarrow e^+ ~\bar{\nu}_\mu ~ \nu_e$,
