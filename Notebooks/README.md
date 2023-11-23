@@ -44,6 +44,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [Higgs_decay_HVV.ipynb](Higgs_decay_HVV.ipynb) 
     - section 7.3 
     - Higgs decay to an on-shell vector boson pair
+- [HiggsLf.ipynb](HiggsLf.ipynb) 
+    - section 7.3 
+    - Derive the gauge couplings ($\gamma, Z, W) to Fermions $\mathcal{L}_F$ is given in section 7.3.     
 - [LeptonWeak.ipynb](LeptonWeak.ipynb) 
     - section 6.1 
     - various weak reactions with leptons
@@ -83,9 +86,11 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [gluon-gluon_with_cut.ipynb](gluon-gluon_with_cut.ipynb) 
     - section 8.1 
     - Calculate the cross-section of $gg\to gg$ scattering with $p_T(g)= 0.1 \sqrt{s}$.
-    - exercise 8.4
+    - exercise 8.4 
 - [heppackv0.py](heppackv0.py) 
     - utility functions and definitions which are used in the notebooks 
+- [higgsLf.py](higgsLf.py) 
+    - utility functions for the calculation of the gauge couplings for fermions.     
 - [neutrino_oscillation_matter.ipynb](neutrino_oscillation_matter.ipynb) 
     - section 9.1 
     - Calculate the neutrino oscillation in matter and derive eq. 9.30, 9.31 and 9.32 in the book. 
