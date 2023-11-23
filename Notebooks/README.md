@@ -11,7 +11,7 @@ The easiest way to use the notebooks is to clone this repository to your local c
 and to work locally:
 1. Option: use the terminal and the `git` command (for experts)
 2. Option: use the Web-Interface 
-    - go to [Main page](https://github.com/BuchEPP/Buch/tree/main)
+    - go to [Main page](https://github.com/BuchEPP/Buch)
     - click on the green field `<>Code`
     - select `Download ZIP`
 
