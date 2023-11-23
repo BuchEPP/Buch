@@ -50,7 +50,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [HiggsLf.ipynb](/BuchEPP/Buch/blob/main/Notebooks/HiggsLf.ipynb) 
     - section 7.3 
     - Derive the gauge couplings ($\gamma, Z, W$) to Fermions  in the SM and compare the result with the equations for $\mathcal{L}_F$ in section 7.3.     
-- [LeptonWeak.ipynb](LeptonWeak.ipynb) 
+- [LeptonWeak.ipynb](/BuchEPP/Buch/blob/main/Notebooks/LeptonWeak.ipynb) 
     - section 6.1 
     - various weak reactions with leptons
     - $\nu_\mu ~ e^-\rightarrow \nu_e ~ \mu^-$,  
@@ -80,7 +80,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [eemumu.ipynb](/BuchEPP/Buch/blob/main/Notebooks/eemumu.ipynb) 
     - section 3.2 
     - the reactions $e^- e^+ \to \mu^- \mu^+$ and $e^- \mu^- \to e^- \mu^-$
-- [eepipi.ipynb](eepipi.ipynb) 
+- [eepipi.ipynb](/BuchEPP/Buch/blob/main/Notebooks/eepipi.ipynb) 
     - section 5.1 
     - reaction $e^+ e^- \to \pi^+ \pi^-$
 - [ggtogg.ipynb](/BuchEPP/Buch/blob/main/Notebooks/ggtogg.ipynb) 
