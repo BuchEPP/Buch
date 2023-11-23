@@ -77,8 +77,16 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [ggtogg.ipynb](ggtogg.ipynb) 
     - section 5.2 
     - gluon-gluon scattering
+- [gluon-gluon_with_cut.ipynb](gluon-gluon_with_cut.ipynb) 
+    - section 8.1 
+    - Calculate the cross-section of $gg\to gg$ scattering with $p_T(g)= 0.1 \sqrt{s}$.
+    - exercise 8.4
 - [heppackv0.py](heppackv0.py) 
     - utility functions and definitions which are used in the notebooks 
+- [neutrino_oscillation_matter.ipynb](neutrino_oscillation_matter.ipynb) 
+    - section 9.1 
+    - Calculate the neutrino oscillation in matter and derive eq. 9.30, 9.31 and 9.32 in the book. 
+    - exercise 9.4
 - [random_exponential.ipynb](random_exponential.ipynb) 
     - section 1.6
     - Generate random numbers distributed according to an exponential function
