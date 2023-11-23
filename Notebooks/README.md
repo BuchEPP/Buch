@@ -41,7 +41,10 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - section 8.1 
     - Calculate the Drell-Yan cross-section using a more realistic parton distribution function as given in section 5.3 of the book. Now the integration can not be done easily with analytical methods. The numerical integration method `scipy.dblquad` is used. 
     - exercise 8.3
-- [Higgs_decay_HVV.ipynb](Higgs_decay_HVV.ipynb) 
+- [Higgs-Hff.ipynb](Higgs-Hff.ipynb) 
+    - section 7.3 
+    - Higgs decay to an on-shell fermion pair
+- [Higgs-HVV.ipynb](Higgs-HVV.ipynb) 
     - section 7.3 
     - Higgs decay to an on-shell vector boson pair
 - [HiggsLf.ipynb](HiggsLf.ipynb) 
@@ -83,7 +86,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [ggtogg.ipynb](ggtogg.ipynb) 
     - section 5.2 
     - gluon-gluon scattering
-- [gluon-gluon_with_cut.ipynb](gluon-gluon_with_cut.ipynb) 
+- [gluon-gluon.ipynb](gluon-gluon-with-cut.ipynb) 
     - section 8.1 
     - Calculate the cross-section of $gg\to gg$ scattering with $p_T(g)= 0.1 \sqrt{s}$.
     - exercise 8.4 
@@ -91,37 +94,37 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - utility functions and definitions which are used in the notebooks 
 - [higgsLf.py](higgsLf.py) 
     - utility functions for the calculation of the gauge couplings for fermions.     
-- [neutrino_oscillation_matter.ipynb](neutrino_oscillation_matter.ipynb) 
+- [neutrino-matter.ipynb](neutrino-matter.ipynb) 
     - section 9.1 
     - Calculate the neutrino oscillation in matter and derive eq. 9.30, 9.31 and 9.32 in the book. 
     - exercise 9.4
-- [random_exponential.ipynb](random_exponential.ipynb) 
+- [random-exponential.ipynb](random-exponential.ipynb) 
     - section 1.6
     - Generate random numbers distributed according to an exponential function
     - exercises 1.30 and 1.31 
-- [random_function_sampling.ipynb](random_function_sampling.ipynb) 
+- [random-function.ipynb](random-function.ipynb) 
     - section 1.6
     - Three methods using numpy routines are presented, which can be used to randomly sample an arbitrary 1-dim function. The first function uses the rejection method, the second the inversion method and the third the numpy routine for sampling a histogram. All methods are timed to find out which is the fastest. 
-- [random_general_inversion.ipynb](random_general_inversion.ipynb) 
+- [random-inversion.ipynb](random-inversion.ipynb) 
     - section 1.6
-    - generate random numbers for an arbitrary 1-D pdf-function using the inversion method
-- [random_normal.ipynb](random_normal.ipynb) 
+    - generate random numbers for an arbitrary 1-D pdf-function using the inversion method. See also notebook `random-function.ipynb`.
+- [random-normal.ipynb](random_normal.ipynb) 
     - section 1.6
     - several calculations with normal (Gaussian) distributions
     - exercises 1.32 and 1.37 
-- [random_numbers.ipynb](random_numbers.ipynb) 
+- [random-numbers.ipynb](random-numbers.ipynb) 
     - section 1.6
     - generate random  numbers,  plot random numbers
     - exercises 1.24, 1.25 and 1.26
-- [random_poisson.ipynb](random_poisson.ipynb) 
+- [random-poisson.ipynb](random-poisson.ipynb) 
     - section 1.6
     - generate random numbers for a Poisson distribution
     - exercises 1.33
-- [random_rejection_method.ipynb](random_rejection_method.ipynb) 
+- [random-rejection.ipynb](random-rejection.ipynb) 
     - section 1.6
     - generate random numbers according to the function $f(x) = \sqrt{1+\sin x}$ with the rejection method
     - exercises 1.35
-- [random_sphere.ipynb](random_sphere.ipynb) 
+- [random-sphere.ipynb](random-sphere.ipynb) 
     - section 1.6
     - calculate the area of a circle and the volumes of a 3-D and 5-D sphere using the rejection method
     - exercises 1.27, 1.28, 1.29
