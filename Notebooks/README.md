@@ -33,6 +33,14 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [Dirac.ipynb](Dirac.ipynb)
     - section 3.1 
     - This notebook should be used for own investigations around the Dirac equation e.g. in the context of the discussion in section 3.1 of the book.
+- [Drell-Yan.ipynb](Drell-Yan.ipynb)
+    - section 8.1 
+    - Calculate the Drell-Yan cross section analytically using a simple (non-realistic) parton distribution functions. 
+    - exercise 8.2
+- [Drell-Yan-numerical.ipynb](Drell-Yan-numerical.ipynb)
+    - section 8.1 
+    - Calculate the Drell-Yan cross-section using a more realistic parton distribution function as given in section 5.3 of the book. Now the integration can not be done easily with analytical methods. The numerical integration method `scipy.dblquad` is used. 
+    - exercise 8.3
 - [Higgs_decay_HVV.ipynb](Higgs_decay_HVV.ipynb) 
     - section 7.3 
     - Higgs decay to an on-shell vector boson pair
