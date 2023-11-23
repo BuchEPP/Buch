@@ -86,7 +86,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [ggtogg.ipynb](/BuchEPP/Buch/blob/main/Notebooks/ggtogg.ipynb) 
     - section 5.2 
     - gluon-gluon scattering
-- [gluon-gluon.ipynb](/BuchEPP/Buch/blob/main/Notebooks/gluon-gluon-with-cut.ipynb) 
+- [gluon-gluon.ipynb](/BuchEPP/Buch/blob/main/Notebooks/gluon-gluon.ipynb) 
     - section 8.1 
     - Calculate the cross-section of $gg\to gg$ scattering with $p_T(g)= 0.1 \sqrt{s}$.
     - exercise 8.4 
