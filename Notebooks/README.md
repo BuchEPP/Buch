@@ -75,6 +75,9 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
     - section 1.6
     - Generate random numbers distributed according to an exponential function
     - exercises 1.30 and 1.31 
+- [random_function_sampling.ipynb](./random_function_sampling.ipynb) 
+    - section 1.6
+    - Three methods using numpy routines are presented, which can be used to randomly sample an arbitrary 1-dim function. The first function uses the rejection method, the second the inversion method and the third the numpy routine for sampling a histogram. All methods are timed to find out which is the fastest. 
 - [random_general_inversion.ipynb](./random_general_inversion.ipynb) 
     - section 1.6
     - generate random numbers for an arbitrary 1-D pdf-function using the inversion method
