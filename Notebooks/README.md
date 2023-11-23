@@ -85,7 +85,7 @@ The comments in the notebooks are intentionally brief.  Therefore, read the rele
     - section 1.6
     - several calculations with normal (Gaussian) distributions
     - exercises 1.32 and 1.37 
-- [random_numbers.ipynb](./random_numbers.ipynb) 
+- [random_numbers.ipynb](random_numbers.ipynb) 
     - section 1.6
     - generate random  numbers,  plot random numbers
     - exercises 1.24, 1.25 and 1.26
