@@ -46,7 +46,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - Higgs decay to an on-shell vector boson pair
 - [HiggsLf.ipynb](HiggsLf.ipynb) 
     - section 7.3 
-    - Derive the gauge couplings ($\gamma, Z, W) to Fermions $\mathcal{L}_F$ is given in section 7.3.     
+    - Derive the gauge couplings ($\gamma, Z, W$) to Fermions $\mathcal{L}_F$ in the SM and compare the result with the equations in section 7.3.     
 - [LeptonWeak.ipynb](LeptonWeak.ipynb) 
     - section 6.1 
     - various weak reactions with leptons
