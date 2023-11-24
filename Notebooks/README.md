@@ -47,6 +47,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [Higgs-HVV.ipynb](/BuchEPP/Buch/blob/main/Notebooks/Higgs-HVV.ipynb) 
     - section 7.3 
     - Higgs decay to an on-shell vector boson pair
+- [Higgs-Matrix.ipynb](/BuchEPP/Buch/blob/main/Notebooks/Higgs-Matrix.ipynb) 
+    - section 7.3 , explanation box 7.2
+    - Calculate photon and Z mass with the Higgs mechanism using the matrix method
 - [HiggsLf.ipynb](/BuchEPP/Buch/blob/main/Notebooks/HiggsLf.ipynb) 
     - section 7.3 
     - Derive the gauge couplings ($\gamma, Z, W$) to Fermions  in the SM and compare the result with the equations for $\mathcal{L}_F$ in section 7.3.     
