@@ -10,6 +10,7 @@ Make sure that you download the figures as well.
 The easiest way to use the notebooks is to clone this repository to your local computer 
 and to work locally:
 1. Option: use the terminal and the `git` command (for experts)
+2. Option: use [GitHub Desktop](https://desktop.github.com), this is easier to use that the terminal version  `git` 
 2. Option: use the Web-Interface 
     - go to [Main page](https://github.com/BuchEPP/Buch)
     - click on the green field `<>Code`
