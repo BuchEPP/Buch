@@ -76,6 +76,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [colorfactors.ipynb](/BuchEPP/Buch/blob/main/Notebooks/colorfactors.ipynb)
     - section 4.2 
     - calculate QCD color factors for qq scattering
+- [crossing.ipynb](/BuchEPP/Buch/blob/main/Notebooks/crossing.ipynb)
+    - section 3.2 and  appendix A.2
+    - calculate reaction amplitudes using the crossing symmetry
 - [eeWW.ipynb](/BuchEPP/Buch/blob/main/Notebooks/eeWW.ipynb)  
     - section 7.1 
     - calculation of the amplitudes for the reaction $ee \to WW$
