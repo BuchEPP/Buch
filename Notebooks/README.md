@@ -120,7 +120,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [random-inversion.ipynb](/BuchEPP/Buch/blob/main/Notebooks/random-inversion.ipynb) 
     - section 1.6
     - generate random numbers for an arbitrary 1-D pdf-function using the inversion method. See also notebook `random-function.ipynb`.
-- [random-normal.ipynb](/BuchEPP/Buch/blob/main/Notebooks/random_normal.ipynb) 
+- [random-normal.ipynb](/BuchEPP/Buch/blob/main/Notebooks/random-normal.ipynb) 
     - section 1.6
     - several calculations with normal (Gaussian) distributions
     - exercises 1.32 and 1.37 
