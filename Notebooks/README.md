@@ -79,6 +79,10 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [crossing.ipynb](/BuchEPP/Buch/blob/main/Notebooks/crossing.ipynb)
     - section 3.2 and  appendix A.2
     - calculate reaction amplitudes using the crossing symmetry
+- [ee-gamma-ff.ipynb](/BuchEPP/Buch/blob/main/Notebooks/ee-gamma-ff.ipynb) 
+    - section 3.2 
+    - the reaction $e^- e^+ \to \gamma \to f \bar{f}$
+    - the notebook performs a semi-automatic calculation of the matrix element and the cross section and compares the result with the formula in the book. 
 - [eeWW.ipynb](/BuchEPP/Buch/blob/main/Notebooks/eeWW.ipynb)  
     - section 7.1 
     - calculation of the amplitudes for the reaction $ee \to WW$
