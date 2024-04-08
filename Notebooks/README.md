@@ -144,6 +144,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - section 1.6
     - calculate the area of a circle and the volumes of a 3-D and 5-D sphere using the rejection method
     - exercises 1.27, 1.28, 1.29
+- [sigtot-ttbar.ipynb](/BuchEPP/Buch/blob/main/Notebooks/sigtot-ttbar.ipynb) 
+    - section 8.3, eq. 8.43 and 8.44
+    - calculate the total xsec for $q\bar{q} \to t \bar{t}$ and  $gg \to t \bar{t}$
 - [tWdecay.ipynb](/BuchEPP/Buch/blob/main/Notebooks/tWdecay.ipynb) 
     - section 6.2 
     - weak decays of the top quark and the W boson
