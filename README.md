@@ -2,15 +2,13 @@
 
 Main GitHub Website for this Book: [BuchEPP.github.io](https://github.com/BuchEPP/BuchEPP.github.io)
 
-Here additional material for the book
+Book
 - Elementarteilchenphysik (in german)
 - Publisher: Springer
 - Authors: Christoph Berger, Gregor Herten 
 
-is provided. 
-
 Sub-folders contain:
-- Solution hint for exercise problems
+- Solution hints for the exercise problems
 - Notebooks with detailed calculations
 - Corrections to the printed edition
  
