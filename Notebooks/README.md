@@ -102,14 +102,14 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [heppackv0.py](/BuchEPP/Buch/blob/main/Notebooks/heppackv0.py) 
     - utility functions and definitions which are used in the notebooks 
 - [higgsLf.py](/BuchEPP/Buch/blob/main/Notebooks/higgsLf.py) 
-    - utility functions for the calculation of the gauge couplings for fermions.     
+    - utility functions for the calculation of the gauge couplings for fermions.
 - [neutrino-matter.ipynb](/BuchEPP/Buch/blob/main/Notebooks/neutrino-matter.ipynb) 
     - section 9.1 
     - Calculate the neutrino oscillation in matter and derive eq. 9.30, 9.31 and 9.32 in the book. 
     - exercise 9.4
 - [neutrino-vacuum.ipynb](/BuchEPP/Buch/blob/main/Notebooks/neutrino-vacuum.ipynb) 
     - section 9.1 
-    - Calculate the neutrino oscillation in vacuum using the matrix method and compare with the analytic expression given by the Particle Data Group (PDG). 
+    - Calculate the neutrino oscillation in vaccuum using the matrix method and compare with the analytic expression given by the Particle Data Group (PDG). 
     - exercise 9.3
 - [random-exponential.ipynb](/BuchEPP/Buch/blob/main/Notebooks/random-exponential.ipynb) 
     - section 1.6
