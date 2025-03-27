@@ -28,7 +28,7 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [Compton.ipynb](Compton.ipynb) 
     - section 3.2 
     - Detailed calculations on photon electron scattering
-- [Dalitz.ipynb](Dalitz.ipynb) 
+- [Dalitz.ipynb](./Dalitz.ipynb) 
     - section 2.1.3
     - generate a Dalitz-plot using randomly selected $(E_1, E_2)$ pairs
 - [Dirac.ipynb](Dirac.ipynb)
