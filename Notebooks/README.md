@@ -76,6 +76,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [crossing.ipynb](/BuchEPP/Buch/blob/main/Notebooks/crossing.ipynb)
     - section 3.2 and  appendix A.2
     - calculate reaction amplitudes using the crossing symmetry
+- [dfunctions.ipynb](/BuchEPP/Buch/blob/main/Notebooks/dfunctions.ipynb)
+    - section 2.2 
+    - define d-functions and D-function, defined in Sec. 2.2. Calculate several examples of angular distribtions which are described in the text.  
 - [ee-gamma-ff.ipynb](/BuchEPP/Buch/blob/main/Notebooks/ee-gamma-ff.ipynb) 
     - section 3.2 
     - the reaction $e^- e^+ \to \gamma \to f \bar{f}$
