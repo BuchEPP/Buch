@@ -70,6 +70,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
 - [Rosenbluthandmore.ipynb](./Rosenbluthandmore.ipynb) 
     - section 5.2 
     - derivation of the Rosenbluth formula
+- [W_rapidity.ipynb](./W_rapidity.ipynb)
+    - section 8.3
+    - calculate the rapidity distribution of W bosons as shown in Fig. 8.20 and the asymmetry in Fig. 8.21. Use PDF sets from LHAPDF. 
 - [colorfactors.ipynb](./colorfactors.ipynb)
     - section 4.2 
     - calculate QCD color factors for qq scattering
@@ -114,6 +117,9 @@ The comments in the notebooks are short.  So read the relevant section of the bo
     - section 9.1 
     - Calculate the neutrino oscillation in vaccuum using the matrix method and compare with the analytic expression given by the Particle Data Group (PDG). 
     - exercise 9.3
+- [pdf-lumi.ipynb](./pdf-lumi.ipynb) 
+    - section 8.1 
+    - Use PDF sets from LHAPDF in python. Calculate x*f(x,Q) and parton luminosity and compare with parton luminosity plots in the book. 
 - [random-exponential.ipynb](./random-exponential.ipynb) 
     - section 1.6
     - Generate random numbers distributed according to an exponential function
